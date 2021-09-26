@@ -5,7 +5,6 @@ I make cool things. I’m currently interested in Algorithms, Machine Learning, 
 
 ### You can contact me here:
 - On Discord at Catalystic#7497
-- On Twitter at @Cqtalystic
 
 <!---
 Catalystiq/Catalystiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
