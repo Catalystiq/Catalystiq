@@ -1,7 +1,7 @@
 # Hello
 ## My name is @Catalystiq
 
-I make cool things. I’m currently interested in Web Development, Full-Stack Applications, Algorithms, Machine Learning, and Discord Bots. I am also currently learning javascript, html, css, java, c and various libraries and frameworks for it. I am also working on some smaller projects
+I make cool things. I’m currently interested in Web Development, Full-Stack Applications,  Machine Learning, and Discord Bots. I am also currently learning javascript, html, css, java, c and various libraries and frameworks for them. I am also working on some smaller projects
 
 ### You can contact me here:
 - On Discord at Catalystic#7497
