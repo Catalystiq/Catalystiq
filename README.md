@@ -6,6 +6,9 @@ I make cool things. I’m currently interested in Web Development, Full-Stack Ap
 ### You can contact me here:
 - On Discord at Catalystic#7497
 
+<!--- ![Catalystiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalystiq&show_icons=true&theme=gotham) --->
+
+
 <!---
 Catalystiq/Catalystiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
