@@ -1,7 +1,7 @@
 # Hello
 ## My name is @Catalystiq
 
-I make cool things. I’m currently interested in Web Development, Full-Stack Applications,  Machine Learning, and Discord Bots. I am also currently learning javascript, typescript, html, css, and various libraries and frameworks for them such as react, next, node, express, and others. I am also working on some smaller projects for school and future endeavors. I am currently working on Catalystiq/TestsofSkill
+I make cool things. I’m currently interested in Web Development, Full-Stack Applications,  Machine Learning, and Discord Bots. I am also currently learning javascript, typescript, html, css, and various libraries and frameworks for them such as react, next, node, express, and others. I am also working on some smaller projects for school and future endeavors. I am currently working on Catalystiq/TestsofSkill (private)
 
 ### You can contact me here:
 - On Discord at Catalystic#7497
